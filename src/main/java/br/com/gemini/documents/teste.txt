@@ -1,0 +1,8 @@
+"Nome do Jogo          | Plataformas                       | Preço (BRL) | Edição        | Data de Lançamento | Desenvolvedor     | Publisher        | Avaliação | Gênero        | Disponibilidade\r\n"
+    			+ "------------------------------------------------------------------------------------------------------------------------\r\n"
+    			+ "Red Dead Redemption 3 | PlayStation, Xbox, PC            | 800,00    | Colecionador  | 2025-12-01         | Rockstar Games    | Rockstar Games   | 4.9       | Ação, Aventura| Edição limitada\r\n"
+    			+ "Fall Guys: Ultimate Knockout | PlayStation, PC         | 150,00      | Padrão        | 2020-08-04         | Mediatonic        | Devolver Digital | 4.7       | Multiplayer, Party | Disponível\r\n"
+    			+ "Metal Slug 3          | PlayStation, Xbox, Switch, PC    | 70,00       | Padrão        | 2000-11-30         | SNK               | SNK              | 4.8       | Ação, Arcade  | Disponível\r\n"
+    			+ "The Witcher 3: Wild Hunt | PlayStation, Xbox, PC, Switch | 250,00      | Game of the Year | 2015-05-19      | CD Projekt Red    | CD Projekt       | 4.9       | RPG, Ação     | Disponível\r\n"
+    			+ "Cyberpunk 2077        | PlayStation, Xbox, PC            | 300,00      | Ed. Limitada | 2020-12-10         | CD Projekt Red    | CD Projekt       | 3.9       | RPG, Ação     | Disponível\r\n"
+    			+ ""
